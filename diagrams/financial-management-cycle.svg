@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="708" viewBox="0 0 1200 708">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600" y="46" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#17365d">Technology Financial Management Cycle</text>
+<text x="600" y="76" text-anchor="middle" font-family="Arial" font-size="17" fill="#475569">Financial control and value realisation should operate as one cycle</text>
+
+<rect x="120" y="110" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="135" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Plan</text>
+<text x="150" y="159" font-family="Arial" font-size="16" fill="#334155">Set budget, demand assumptions and commitments</text>
+<line x1="600" y1="174" x2="600" y2="196" stroke="#17365d" stroke-width="2"/><polygon points="594,190 606,190 600,198" fill="#17365d"/>
+<rect x="120" y="198" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="223" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Run</text>
+<text x="150" y="247" font-family="Arial" font-size="16" fill="#334155">Manage actuals, forecast and service economics</text>
+<line x1="600" y1="262" x2="600" y2="284" stroke="#17365d" stroke-width="2"/><polygon points="594,278 606,278 600,286" fill="#17365d"/>
+<rect x="120" y="286" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="311" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Optimise</text>
+<text x="150" y="335" font-family="Arial" font-size="16" fill="#334155">Remove duplication, waste and avoidable cost</text>
+<line x1="600" y1="350" x2="600" y2="372" stroke="#17365d" stroke-width="2"/><polygon points="594,366 606,366 600,374" fill="#17365d"/>
+<rect x="120" y="374" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="399" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Invest</text>
+<text x="150" y="423" font-family="Arial" font-size="16" fill="#334155">Prioritise funding against value, risk and capacity</text>
+<line x1="600" y1="438" x2="600" y2="460" stroke="#17365d" stroke-width="2"/><polygon points="594,454 606,454 600,462" fill="#17365d"/>
+<rect x="120" y="462" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="487" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Realise</text>
+<text x="150" y="511" font-family="Arial" font-size="16" fill="#334155">Measure adoption and actual benefits</text>
+<line x1="600" y1="526" x2="600" y2="548" stroke="#17365d" stroke-width="2"/><polygon points="594,542 606,542 600,550" fill="#17365d"/>
+<rect x="120" y="550" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="575" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Reallocate</text>
+<text x="150" y="599" font-family="Arial" font-size="16" fill="#334155">Feed evidence into the next planning cycle</text>
+
+</svg>

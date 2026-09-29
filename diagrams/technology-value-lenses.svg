@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600" y="46" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#17365d">Technology Value Lenses</text>
+<text x="600" y="76" text-anchor="middle" font-family="Arial" font-size="17" fill="#475569">Five complementary ways to evidence technology value</text>
+
+<rect x="120" y="110" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="135" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Financial</text>
+<text x="150" y="159" font-family="Arial" font-size="16" fill="#334155">Savings, avoided cost, TCO and commercial leverage</text>
+<line x1="600" y1="174" x2="600" y2="196" stroke="#17365d" stroke-width="2"/><polygon points="594,190 606,190 600,198" fill="#17365d"/>
+<rect x="120" y="198" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="223" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Productivity</text>
+<text x="150" y="247" font-family="Arial" font-size="16" fill="#334155">Capacity returned, cycle time, throughput and reduced rework</text>
+<line x1="600" y1="262" x2="600" y2="284" stroke="#17365d" stroke-width="2"/><polygon points="594,278 606,278 600,286" fill="#17365d"/>
+<rect x="120" y="286" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="311" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Risk &amp; Resilience</text>
+<text x="150" y="335" font-family="Arial" font-size="16" fill="#334155">Exposure reduction, control strength and recovery confidence</text>
+<line x1="600" y1="350" x2="600" y2="372" stroke="#17365d" stroke-width="2"/><polygon points="594,366 606,366 600,374" fill="#17365d"/>
+<rect x="120" y="374" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="399" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Experience</text>
+<text x="150" y="423" font-family="Arial" font-size="16" fill="#334155">Customer and employee friction, service quality and adoption</text>
+<line x1="600" y1="438" x2="600" y2="460" stroke="#17365d" stroke-width="2"/><polygon points="594,454 606,454 600,462" fill="#17365d"/>
+<rect x="120" y="462" width="960" height="64" rx="10" fill="#f7f9fc" stroke="#17365d" stroke-width="2"/>
+<text x="150" y="487" font-family="Arial" font-size="20" font-weight="700" fill="#17365d">Strategic Capability</text>
+<text x="150" y="511" font-family="Arial" font-size="16" fill="#334155">Scalability, integration, data, M&amp;A and speed to market</text>
+
+</svg>
